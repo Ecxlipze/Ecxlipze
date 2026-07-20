@@ -1,31 +1,29 @@
-# 👋 Hey, I'm Rohan Shah
+# Hi, I'm Rohan Shah
 
-<h3 align="center">💻 Full Stack Developer | JavaScript & Python | Building Scalable Web Applications</h3>
+<h3 align="center">Full Stack Developer • JavaScript • TypeScript • Python</h3>
 
 <p align="center">
-I enjoy transforming ideas into fast, scalable, and production-ready applications.
-Passionate about clean architecture, great user experiences, and continuously learning new technologies.
+Building modern, scalable web applications with a focus on performance,
+clean architecture, and great user experiences.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ecxlipze&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ecxlipze&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-# 🚀 About Me
+## About Me
 
-- 💼 Full Stack Developer with **2+ years of experience**
-- 🔭 Currently building **modern web applications**
-- 🌱 Learning **AI, System Design, DevOps & Cloud Technologies**
-- 💻 Passionate about **React, Next.js, Node.js, Python & Django**
-- 🛠 I enjoy solving real-world problems through software.
-- 🤝 Open to collaborating on Open Source projects.
-- ⚡ I believe great software comes from clean code and continuous learning.
+I'm a Full Stack Developer with over two years of experience building web applications from frontend interfaces to backend systems.
+
+My primary stack includes **React, Next.js, Node.js, Express, Python, Django, MongoDB, and PostgreSQL**. I enjoy designing scalable architectures, building secure APIs, and creating applications that solve real-world problems.
+
+Currently, I'm expanding my expertise in **Artificial Intelligence, System Design, Cloud Computing, and DevOps** while continuously improving my software engineering skills.
 
 ---
 
-# 🌐 Connect With Me
+## Connect
 
 <p align="left">
 <a href="mailto:Rohanali027@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -36,39 +34,39 @@ Passionate about clean architecture, great user experiences, and continuously le
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,python,php,cpp,c,rust" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,vite" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,dotnet" />
 </p>
 
-### 🗄️ Database
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
 </p>
 
-### ☁️ Cloud & DevOps
+### DevOps & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,cloudflare,gcp,vercel,netlify,nginx" />
 </p>
 
-### 🧰 Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm,powershell" />
@@ -76,35 +74,39 @@ Passionate about clean architecture, great user experiences, and continuously le
 
 ---
 
-# 🚀 Currently Exploring
+## Featured Projects
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning with Python
-- ⚡ System Design
-- ☁️ Cloud Computing
-- 🐳 Docker & DevOps
-- 🔐 Authentication & Security
-- 🚀 Performance Optimization
+### Smart Recruitment System
 
----
+AI-powered recruitment platform built with **Python, Django, PostgreSQL, and JWT Authentication**.
 
-# 📌 Featured Projects
+### Hotel Booking Platform
 
-### 🧠 Smart Recruitment System
-> AI-powered recruitment platform built with **Python, Django, JWT & PostgreSQL**
+Full-stack booking application built using **Next.js, Express.js, MongoDB, and REST APIs**.
 
-### 🏨 Hotel Booking Platform
-> Full-stack booking application using **Next.js, Node.js & MongoDB**
+### Highrise Automation Bots
 
-### 🤖 Highrise Automation Bots
-> Custom automation bots built with **Python & APIs**
+Automation tools and bots built with **Python**, integrating third-party APIs and custom workflows.
 
-### 🌐 Portfolio Website
-> Modern animated portfolio using **React, GSAP & Three.js**
+### Portfolio Website
+
+Interactive portfolio developed with **React, GSAP, Three.js, and modern frontend technologies**.
 
 ---
 
-# 📈 GitHub Stats
+## Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- System Design
+- Cloud Computing
+- Docker & DevOps
+- Authentication & Security
+- Performance Optimization
+
+---
+
+## GitHub Statistics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ecxlipze&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -117,7 +119,7 @@ Passionate about clean architecture, great user experiences, and continuously le
 
 ---
 
-# 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Ecxlipze&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
@@ -125,7 +127,7 @@ Passionate about clean architecture, great user experiences, and continuously le
 
 ---
 
-# 📊 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ecxlipze&theme=tokyo-night&hide_border=true"/>
@@ -133,16 +135,12 @@ Passionate about clean architecture, great user experiences, and continuously le
 
 ---
 
-# ✨ Random Dev Quote
+## Development Philosophy
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+> "Write clean code. Build meaningful software. Keep learning."
 
 ---
 
-# 📫 Let's Build Something Amazing
+If you're interested in collaborating on projects, discussing ideas, or building something impactful, feel free to reach out.
 
-If you're interested in collaborating on exciting projects, discussing new ideas, or just connecting with fellow developers, feel free to reach out.
-
-⭐ **Thanks for visiting my profile!**
+Thank you for visiting my profile.
